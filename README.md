@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hadiqaahmed
-- 👀 I’m currently about to study comp sci at university, and I'm trying to build on my coding skill 
+- 👀 I’m currently trying to build on basic skills
 - 🌱 I’m currently learning web development, and working on small projects
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me hadiqaahmed8210@gmail.com 
