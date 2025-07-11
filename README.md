@@ -13,7 +13,7 @@ Right now, I’m fully in build mode — crafting systems that automate the nois
 
 ### 🚀 Projects I’m Building
 
-#### 🧠 Cognie – AI Productivity & Memory Assistant (MVP in progress)
+#### 🧠 Cogniy – AI Productivity & Memory Assistant (MVP in progress)
 > Like Notion meets Google Calendar meets your second brain. https://forms.gle/jnkdhRLfE4RFEAF28 (Sign-up to become a tester)
 
 - AI-powered task planner that adapts to your goals, memory, and energy  
